@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cs450-plotandgraph/static/css/main.e6c13ad2.css",
+    "main.js": "/cs450-plotandgraph/static/js/main.2f19b1a2.js",
+    "static/js/453.4927a66d.chunk.js": "/cs450-plotandgraph/static/js/453.4927a66d.chunk.js",
+    "index.html": "/cs450-plotandgraph/index.html",
+    "main.e6c13ad2.css.map": "/cs450-plotandgraph/static/css/main.e6c13ad2.css.map",
+    "main.2f19b1a2.js.map": "/cs450-plotandgraph/static/js/main.2f19b1a2.js.map",
+    "453.4927a66d.chunk.js.map": "/cs450-plotandgraph/static/js/453.4927a66d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2f19b1a2.js"
+  ]
+}
